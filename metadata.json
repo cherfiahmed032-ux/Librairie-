@@ -1,0 +1,6 @@
+{
+  "name": "نقطة بيع الأدوات المدرسية",
+  "description": "تطبيق نقطة بيع وإدارة مخزون الأدوات المدرسية والمكتبية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

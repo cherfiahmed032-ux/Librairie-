@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="2.6"
+        android:scaleY="2.6"
+        android:translateX="22.8"
+        android:translateY="22.8">
+        <!-- Graduation cap & school icon -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M12,3L2,8L12,13L22,8L12,3z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M6,10.5V16C6,17.7 8.7,19 12,19C15.3,19 18,17.7 18,16V10.5L12,13.5L6,10.5z" />
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.5"
+            android:strokeLineCap="round"
+            android:pathData="M22,8V14" />
+    </group>
+</vector>
